@@ -1,0 +1,21 @@
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+
+# サブディレクトリにあるかも
+**/*.xcodeproj/*
+!**/*.xcodeproj/project.pbxproj
+
+!*.xcodeproj/default.*
+!**/*.xcodeproj/default.*
+
+*.xcworkspace/*
+!*.xcworkspace/contents.xcworkspacedata
+
+#なぜかvcが
+.sln
+.vcproj*
+
+#bin
+bin/*
+!bin/data
+!bin/data*

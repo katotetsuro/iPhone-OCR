@@ -1,0 +1,1382 @@
+TvideoGrabberExample
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/Info.plist ofxiphone-Info.plist
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist build/Debug-iphoneos/videoGrabberExample.app/ResourceRules.plist
+cCopyPNGFile /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/Icon.png bin/data/Icon.png
+cCopyPNGFile /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/Default.png bin/data/Default.png
+cCpResource Project.xcconfig build/Debug-iphoneos/videoGrabberExample.app/Project.xcconfig
+cCopyPlistFile /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/ofxiphone-Info.plist ofxiphone-Info.plist
+cCpResource ../../../addons/ofxTesseract/readme.md build/Debug-iphoneos/videoGrabberExample.app/readme.md
+cCpResource ../../../libs/openFrameworksCompiled/project/ios/CoreOF.xcconfig build/Debug-iphoneos/videoGrabberExample.app/CoreOF.xcconfig
+cProcessPCH++ /var/folders/g6/1vgjhstd5dggyr_s43b4mndr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Prefix-fnxxtjgjcyxruggxpscgrownaupv/iPhone_Prefix.pch.pth iPhone_Prefix.pch normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH++ /var/folders/g6/1vgjhstd5dggyr_s43b4mndr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Prefix-hdhuahqtrypexpacofgrkvyxqpbb/iPhone_Prefix.pch.pth iPhone_Prefix.pch normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/main.o /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/src/main.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/testApp.o /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/src/testApp.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/OCRThread.o /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/src/OCRThread.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/ofxTesseract.o /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/src/ofxTesseract.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/videoGrabberExample normal armv7
+cGenerateDSYMFile /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app.dSYM /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/videoGrabberExample
+cPhaseScriptExecution "Run Script" /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Script-9255DD331112741900D6945E.sh
+cProcessProductPackaging "/Users/tkato/Library/MobileDevice/Provisioning Profiles/50B1CC72-DCE6-445E-8DA1-AAF683498B30.mobileprovision" /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/embedded.mobileprovision
+cProcessProductPackaging "/Users/tkato/Library/MobileDevice/Provisioning Profiles/50B1CC72-DCE6-445E-8DA1-AAF683498B30.mobileprovision" /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/embedded.mobileprovision
+cTouch /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample.xcent
+cCodeSign /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk
+c000000004F453DF20000000000000110
+t1329937906
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist
+c000000004F6B0EB400000000000001A7
+t1332416180
+s423
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist
+c000000004F6B0EB400000000000001E5
+t1332416180
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004F6B0EB5000000000015B230
+t1332416181
+s1421872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004F6B0EB600000000005C33D0
+t1332416182
+s6042576
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004F6B0EB600000000003AE430
+t1332416182
+s3859504
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004F6B0EB6000000000007C770
+t1332416182
+s509808
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c000000004F6B0EB60000000000075200
+t1332416182
+s479744
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000004F6B0EB6000000000001BD60
+t1332416182
+s114016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F6B0EB7000000000052C940
+t1332416183
+s5425472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004F6B0EB60000000000001534
+t1332416182
+s5428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004F6B0EB700000000000B1AA0
+t1332416183
+s727712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004F6B0EB70000000000023A10
+t1332416183
+s145936
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004F6B0EB70000000000018700
+t1332416183
+s100096
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004F6B0EB70000000000175AA0
+t1332416183
+s1530528
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004F6B0EB70000000000000BF5
+t1332416183
+s3061
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004F6B0EB90000000000798EA0
+t1332416185
+s7966368
+
+N/Users/tkato/Library/MobileDevice/Provisioning Profiles/50B1CC72-DCE6-445E-8DA1-AAF683498B30.mobileprovision
+c000000004F6B09E3000000000000919B
+t1332414947
+s37275
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxAccelerometer/src/ofxAccelerometer.h
+c000000004F9EAEE000000000000019F8
+t1335799520
+s6648
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxMultiTouch/src/ofxMultiTouch.h
+c000000004F9EAEE20000000000000C60
+t1335799522
+s3168
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxMultiTouch/src/ofxMultiTouchListener.h
+c000000004F9EAEE20000000000000BB7
+t1335799522
+s2999
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/.gitignore
+c000000004FDC65AB0000000000000052
+t1339844011
+s82
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/example/Project.xcconfig
+c000000004FDC65AB000000000000022A
+t1339844011
+s554
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/example/bin/data/.gitignore
+c000000004FDC65AB0000000000000048
+t1339844011
+s72
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/example/bin/data/article.png
+c000000004FDC65AB00000000000284FF
+t1339844011
+s165119
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/example/bin/data/tessdata/eng.traineddata
+c000000004FDC65AB00000000001D6688
+t1339844011
+s1926792
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/example/build/ofxTesseractExample.build/Debug/ofxTesseractExample.build/ofxTesseractExampleDebug.hmap
+c000000004FDC892E0000000000001A63
+t1339853102
+s6755
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/example/openFrameworks-Info.plist
+c000000004FDC65AB0000000000000277
+t1339844011
+s631
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/example/src/main.cpp
+c000000004FDC65AB00000000000000A4
+t1339844011
+s164
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/example/src/testApp.cpp
+c000000004FDC65AB000000000000057F
+t1339844011
+s1407
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/include/apitypes.h
+c000000004FDC87250000000000000515
+t1339852581
+s1301
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/include/baseapi.h
+c000000004FDC8725000000000000672B
+t1339852581
+s26411
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/include/errcode.h
+c000000004FDC87250000000000000D5D
+t1339852581
+s3421
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/include/genericvector.h
+c000000004FDC87250000000000005DA9
+t1339852581
+s23977
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/include/helpers.h
+c000000004FDC87250000000000001186
+t1339852581
+s4486
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/include/host.h
+c000000004FDC87250000000000001A85
+t1339852581
+s6789
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/include/ndminx.h
+c000000004FDC87250000000000000449
+t1339852581
+s1097
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/include/platform.h
+c000000004FDC8725000000000000055A
+t1339852581
+s1370
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/include/publictypes.h
+c000000004FDC8725000000000000252B
+t1339852581
+s9515
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/include/tesscallback.h
+c000000004FDC87250000000000007D50
+t1339852581
+s32080
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/include/thresholder.h
+c000000004FDC87250000000000001BB5
+t1339852581
+s7093
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/include/unichar.h
+c000000004FDC87250000000000000BAC
+t1339852581
+s2988
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/lib/ios/liblept.a
+c000000004FDC863100000000007ABAC4
+t1339852337
+s8043204
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/lib/ios/libtesseract_all.a
+c000000004FDC8725000000000157522C
+t1339852581
+s22499884
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/lib/osx/libtesseract_full_i386.a
+c000000004FDC65AB00000000006277B8
+t1339844011
+s6453176
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/readme.md
+c000000004FDC65AC00000000000004C0
+t1339844012
+s1216
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/src/ofxTesseract.cpp
+c000000004FE078860000000000000BD7
+t1340110982
+s3031
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/src/ofxTesseract.h
+c000000004FDC8A4F0000000000000836
+t1339853391
+s2102
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxiPhone/ofxiPhone.h
+c000000004F9EAEEC0000000000000893
+t1335799532
+s2195
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxiPhone/ofxiPhoneExtras.h
+c000000004F9F860000000000000023DF
+t1335854592
+s9183
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxiPhone/src/EAGLView.h
+c000000004F9EAEEC0000000000000A20
+t1335799532
+s2592
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxiPhone/src/ESRenderer.h
+c000000004F9EAEEC000000000000018E
+t1335799532
+s398
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxiPhone/src/SoundEngine.h
+c000000004F9EAEEC0000000000004003
+t1335799532
+s16387
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxiPhone/src/ofAppiPhoneWindow.h
+c000000004F9EAEEC0000000000000F23
+t1335799532
+s3875
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxiPhone/src/ofxOpenALSoundPlayer.h
+c000000004F9EAEEC0000000000000F7F
+t1335799532
+s3967
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxiPhone/src/ofxiPhoneAlerts.h
+c000000004F9EAEEC0000000000000E48
+t1335799532
+s3656
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxiPhone/src/ofxiPhoneAlertsListener.h
+c000000004F9EAEEC0000000000000862
+t1335799532
+s2146
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxiPhone/src/ofxiPhoneApp.h
+c000000004F9EAEEC0000000000000544
+t1335799532
+s1348
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxiPhone/src/ofxiPhoneAppDelegate.h
+c000000004F9EAEEC0000000000000A6F
+t1335799532
+s2671
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxiPhone/src/ofxiPhoneCoreLocation.h
+c000000004F9EAEEC0000000000000985
+t1335799532
+s2437
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxiPhone/src/ofxiPhoneImagePicker.h
+c000000004F9EAEEC0000000000000D82
+t1335799532
+s3458
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxiPhone/src/ofxiPhoneKeyboard.h
+c000000004F9EAEEC00000000000006BA
+t1335799532
+s1722
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxiPhone/src/ofxiPhoneMapKit.h
+c000000004F9EAEEC0000000000001634
+t1335799532
+s5684
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxiPhone/src/ofxiPhoneMapKitListener.h
+c000000004F9EAEEC00000000000008AC
+t1335799532
+s2220
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxiPhone/src/ofxiPhoneViewController.h
+c000000004F9EAEEC00000000000004D5
+t1335799532
+s1237
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/cairo/include/cairo/cairo-deprecated.h
+c000000004F9EAEF200000000000021FA
+t1335799538
+s8698
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/cairo/include/cairo/cairo-features.h
+c000000004F9EAEF2000000000000031D
+t1335799538
+s797
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/cairo/include/cairo/cairo-pdf.h
+c000000004F9EAEF20000000000000C24
+t1335799538
+s3108
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/cairo/include/cairo/cairo-svg.h
+c000000004F9EAEF20000000000000ADD
+t1335799538
+s2781
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/cairo/include/cairo/cairo-version.h
+c000000004F9EAEF20000000000000094
+t1335799538
+s148
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/cairo/include/cairo/cairo.h
+c000000004F9EAEF20000000000016BCE
+t1335799538
+s93134
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/glu/include_ios/glu.h
+c000000004F9EAEF40000000000001F99
+t1335799540
+s8089
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/3d/of3dUtils.h
+c000000004F9F597C0000000000000160
+t1335843196
+s352
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/3d/ofCamera.h
+c000000004F9EAEF400000000000007E7
+t1335799540
+s2023
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/3d/ofEasyCam.h
+c000000004F9EAEF4000000000000053C
+t1335799540
+s1340
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/3d/ofMesh.h
+c000000004F9EAEF40000000000000FAD
+t1335799540
+s4013
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/3d/ofNode.h
+c000000004F9EAEF4000000000000143C
+t1335799540
+s5180
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/app/ofAppBaseWindow.h
+c000000004F9EAEF40000000000000590
+t1335799540
+s1424
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/app/ofAppRunner.h
+c000000004F9EAEF4000000000000075D
+t1335799540
+s1885
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/app/ofBaseApp.h
+c000000004F9EAEF400000000000003A4
+t1335799540
+s932
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/events/ofEventUtils.h
+c000000004F9EAEF60000000000000CB3
+t1335799542
+s3251
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/events/ofEvents.h
+c000000004F9EAEF60000000000001CB9
+t1335799542
+s7353
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/gl/ofFbo.h
+c000000004FBF1E8C000000000000104A
+t1337925260
+s4170
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/gl/ofGLRenderer.h
+c000000004F9EAEF600000000000012E2
+t1335799542
+s4834
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/gl/ofGLUtils.h
+c000000004F9EAEF60000000000000D78
+t1335799542
+s3448
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/gl/ofLight.h
+c000000004F9EAEF60000000000000934
+t1335799542
+s2356
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/gl/ofMaterial.h
+c000000004F9EAEF60000000000000555
+t1335799542
+s1365
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/gl/ofShader.h
+c000000004F9EAEF60000000000001039
+t1335799542
+s4153
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/gl/ofTexture.h
+c000000004F9EAEF600000000000014FB
+t1335799542
+s5371
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/gl/ofVbo.h
+c000000004F9EAEF60000000000000A19
+t1335799542
+s2585
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/gl/ofVboMesh.h
+c000000004F9EAEF60000000000000163
+t1335799542
+s355
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/graphics/ofCairoRenderer.h
+c000000004F9EAEF60000000000001461
+t1335799542
+s5217
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/graphics/ofGraphics.h
+c000000004F9EAEF60000000000002048
+t1335799542
+s8264
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/graphics/ofImage.h
+c000000004F9EAEF60000000000002116
+t1335799542
+s8470
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/graphics/ofPath.h
+c000000004F9EAEF60000000000001328
+t1335799542
+s4904
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/graphics/ofPixels.h
+c000000004F9EAEF60000000000001380
+t1335799542
+s4992
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/graphics/ofPolyline.h
+c000000004F9EAEF60000000000001402
+t1335799542
+s5122
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/graphics/ofRendererCollection.h
+c000000004F9EAEF600000000000029A8
+t1335799542
+s10664
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/graphics/ofTessellator.h
+c000000004F9EAEF60000000000000459
+t1335799542
+s1113
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/graphics/ofTrueTypeFont.h
+c000000004FB45B7C0000000000000A3C
+t1337219964
+s2620
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/math/ofMath.h
+c000000004F9EAEF60000000000000B46
+t1335799542
+s2886
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/math/ofMatrix3x3.h
+c000000004F9EAEF60000000000000BB7
+t1335799542
+s2999
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/math/ofMatrix4x4.h
+c000000004F9EAEF60000000000006D64
+t1335799542
+s28004
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/math/ofQuaternion.h
+c000000004F9EAEF600000000000034A0
+t1335799542
+s13472
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/math/ofVec2f.h
+c000000004F9EAEF600000000000042C6
+t1335799542
+s17094
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/math/ofVec3f.h
+c000000004F9EAEF600000000000063F7
+t1335799542
+s25591
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/math/ofVec4f.h
+c000000004F9EAEF60000000000002F99
+t1335799542
+s12185
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/math/ofVectorMath.h
+c000000004F9EAEF60000000000000099
+t1335799542
+s153
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/ofMain.h
+c000000004F9EAEF60000000000000643
+t1335799542
+s1603
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/sound/ofBaseSoundPlayer.h
+c000000004F9EAEF600000000000003EE
+t1335799542
+s1006
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/sound/ofBaseSoundStream.h
+c000000004F9EAEF600000000000002D4
+t1335799542
+s724
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/sound/ofSoundPlayer.h
+c000000004F9EAEF60000000000000718
+t1335799542
+s1816
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/sound/ofSoundStream.h
+c000000004F9EAEF600000000000006DB
+t1335799542
+s1755
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/sound/ofxiPhoneSoundStream.h
+c000000004F9EAEF60000000000000428
+t1335799542
+s1064
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/types/ofBaseTypes.h
+c000000004FBF136800000000000030A6
+t1337922408
+s12454
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/types/ofColor.h
+c000000004F9EAEF60000000000001466
+t1335799542
+s5222
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/types/ofPoint.h
+c000000004F9EAEF6000000000000003D
+t1335799542
+s61
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/types/ofRectangle.h
+c000000004F9EAEF60000000000000483
+t1335799542
+s1155
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/types/ofTypes.h
+c000000004F9EAEF60000000000000D27
+t1335799542
+s3367
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/utils/ofConstants.h
+c000000004FC2D5B6000000000000363A
+t1338168758
+s13882
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/utils/ofFileUtils.h
+c000000004F9EAEF60000000000001E0F
+t1335799542
+s7695
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/utils/ofLog.h
+c000000004F9EAEF600000000000015C0
+t1335799542
+s5568
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/utils/ofSystemUtils.h
+c000000004F9EAEF600000000000001AC
+t1335799542
+s428
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/utils/ofThread.h
+c000000004F9EAEF60000000000001511
+t1335799542
+s5393
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/utils/ofURLFileLoader.h
+c000000004F9EAEF600000000000008C4
+t1335799542
+s2244
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/utils/ofUtils.h
+c000000004F9EAEF6000000000000131D
+t1335799542
+s4893
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/video/ofVideoGrabber.h
+c000000004F9EAEF600000000000009F2
+t1335799542
+s2546
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/video/ofVideoPlayer.h
+c000000004F9EAEF60000000000000A8E
+t1335799542
+s2702
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/video/ofiPhoneVideoGrabber.h
+c000000004F9EAEF6000000000000032C
+t1335799542
+s812
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworks/video/ofiPhoneVideoPlayer.h
+c000000004FBF13680000000000000643
+t1337922408
+s1603
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworksCompiled/project/ios/CoreOF.xcconfig
+c000000004F9EAEF60000000000000943
+t1335799542
+s2371
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/AbstractDelegate.h
+c000000004F9EAEF60000000000000AF0
+t1335799542
+s2800
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/AbstractEvent.h
+c000000004F9EAEF60000000000002EED
+t1335799542
+s12013
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/ActiveMethod.h
+c000000004F9EAEF60000000000001C64
+t1335799542
+s7268
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/ActiveResult.h
+c000000004F9EAEF60000000000002E66
+t1335799542
+s11878
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/ActiveRunnable.h
+c000000004F9EAEF60000000000001785
+t1335799542
+s6021
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/ActiveStarter.h
+c000000004F9EAEF60000000000000927
+t1335799542
+s2343
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/AtomicCounter.h
+c000000004F9EAEF60000000000002138
+t1335799542
+s8504
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/AutoPtr.h
+c000000004F9EAEF60000000000001E0C
+t1335799542
+s7692
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/Bugcheck.h
+c000000004F9EAEF600000000000014A9
+t1335799542
+s5289
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/Condition.h
+c000000004F9EAEF60000000000001236
+t1335799542
+s4662
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/Config.h
+c000000004F9EAEF60000000000000EA4
+t1335799542
+s3748
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/DefaultStrategy.h
+c000000004F9EAEF60000000000000D64
+t1335799542
+s3428
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/Delegate.h
+c000000004F9EAEF60000000000001B3D
+t1335799542
+s6973
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/Event.h
+c000000004F9EAEF60000000000000E58
+t1335799542
+s3672
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/Event_POSIX.h
+c000000004F9EAEF60000000000000A91
+t1335799542
+s2705
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/Exception.h
+c000000004F9EAEF600000000000028B1
+t1335799542
+s10417
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/Expire.h
+c000000004F9EAEF60000000000000D44
+t1335799542
+s3396
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/FIFOEvent.h
+c000000004F9EAEF600000000000009FD
+t1335799542
+s2557
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/FIFOStrategy.h
+c000000004F9EAEF60000000000000962
+t1335799542
+s2402
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/File.h
+c000000004F9EAEF60000000000001FCC
+t1335799542
+s8140
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/File_UNIX.h
+c000000004F9EAEF60000000000000BC1
+t1335799542
+s3009
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/Foundation.h
+c000000004F9EAEF600000000000010F9
+t1335799542
+s4345
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/FunctionDelegate.h
+c000000004F9EAEF600000000000017B0
+t1335799542
+s6064
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/Mutex.h
+c000000004F9EAEF60000000000001DD6
+t1335799542
+s7638
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/Mutex_POSIX.h
+c000000004F9EAEF60000000000000AC2
+t1335799542
+s2754
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/NotificationStrategy.h
+c000000004F9EAEF60000000000000B62
+t1335799542
+s2914
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/Platform.h
+c000000004F9EAEF60000000000001CBD
+t1335799542
+s7357
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/Platform_POSIX.h
+c000000004F9EAEF60000000000000843
+t1335799542
+s2115
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/RefCountedObject.h
+c000000004F9EAEF60000000000000BB1
+t1335799542
+s2993
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/Runnable.h
+c000000004F9EAEF60000000000000861
+t1335799542
+s2145
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/ScopedLock.h
+c000000004F9EAEF60000000000000CC5
+t1335799542
+s3269
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/ScopedUnlock.h
+c000000004F9EAEF6000000000000092B
+t1335799542
+s2347
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/SharedPtr.h
+c000000004F9EAEF60000000000002278
+t1335799542
+s8824
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/SignalHandler.h
+c000000004F9EAEF60000000000001205
+t1335799542
+s4613
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/SingletonHolder.h
+c000000004F9EAEF60000000000000A67
+t1335799542
+s2663
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/Thread.h
+c000000004F9EAEF60000000000001E48
+t1335799542
+s7752
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/ThreadPool.h
+c000000004F9EAEF60000000000001C8A
+t1335799542
+s7306
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/Thread_POSIX.h
+c000000004F9EAEF600000000000014C0
+t1335799542
+s5312
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/Timestamp.h
+c000000004F9EAEF60000000000001A41
+t1335799542
+s6721
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/poco/include/Poco/Types.h
+c000000004F9EAEF60000000000001ABE
+t1335799542
+s6846
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/tess2/include/tesselator.h
+c000000004F9EAEFE0000000000001C63
+t1335799550
+s7267
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/Project.xcconfig
+c000000004FBF1FC000000000000001C4
+t1337925568
+s452
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/bin/data/Default.png
+c000000004FBF1FC00000000000003182
+t1337925568
+s12674
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/bin/data/Icon.png
+c000000004FBF1FC000000000000008EF
+t1337925568
+s2287
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/bin/data/tessdata/eng.traineddata
+c000000004EA22D3100000000002F7CC9
+t1319251249
+s3112137
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app
+t1340111250
+s612
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app.dSYM
+t1340111249
+s102
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/.gitignore
+t2
+s0
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/CoreOF.xcconfig
+t1339923945
+s2371
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/Default.png
+t1340111249
+s12674
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/Icon.png
+t1340111249
+s2287
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/Info.plist
+t1339923945
+s1001
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/PkgInfo
+t1339923945
+s8
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/Project.xcconfig
+t1339923945
+s452
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/ResourceRules.plist
+t1339923945
+s485
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/article.png
+t2
+s0
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/embedded.mobileprovision
+t1339923949
+s37275
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/eng.traineddata
+t2
+s0
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/ofxTesseractExampleDebug.hmap
+t2
+s0
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/ofxiphone-Info.plist
+t1339923945
+s603
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/openFrameworks-Info.plist
+t2
+s0
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/readme.md
+t1339925259
+s1216
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/videoGrabberExample
+t1340111250
+s8469408
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/OCRThread.o
+t1340111246
+s183292
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/OscThread.o
+t2
+s0
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/main-7146FE4631047665.o
+t2
+s0
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/main-BF24D59965846C59.o
+t2
+s0
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/main.o
+t1339932721
+s227968
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/ofxTesseract.o
+t1340111125
+s158056
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/testApp-B02793EDC8748C5B.o
+t2
+s0
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/testApp-E9C85D70627C8666.o
+t2
+s0
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/testApp.o
+t1339932721
+s219652
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/videoGrabberExample.LinkFileList
+c000000004FDDBD3B00000000000002F8
+t1339931963
+s760
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Script-9255DD331112741900D6945E.sh
+c000000004FDD9DE90000000000000042
+t1339923945
+s66
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample.xcent
+t1339923949
+s412
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/iPhone_Prefix.pch
+c000000004FBF1FC000000000000000B5
+t1337925568
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/ofxiphone-Info.plist
+c000000004FBF1FC00000000000000428
+t1337925568
+s1064
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/src/OCRThread.cpp
+c000000004FE079D2000000000000051D
+t1340111314
+s1309
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/src/OCRThread.h
+c000000004FDDC0090000000000000240
+t1339932681
+s576
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/src/OscThread.cpp
+c000000004FDDB8A100000000000000AE
+t1339930785
+s174
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/src/main.mm
+c000000004F9F7D8C000000000000009D
+t1335852428
+s157
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/src/testApp.h
+c000000004FDDBCF900000000000002B9
+t1339931897
+s697
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/src/testApp.mm
+c000000004FDDBFC30000000000000941
+t1339932611
+s2369
+
+N/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/libs/openFrameworksCompiled/lib/ios/libofxiPhone_iphoneos_Debug.a
+c000000004FDDC3990000000002124430
+t1339933593
+s34751536
+
+N/var/folders/g6/1vgjhstd5dggyr_s43b4mndr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Prefix-fnxxtjgjcyxruggxpscgrownaupv/iPhone_Prefix.pch.pth
+t1339925259
+s68112
+
+N/var/folders/g6/1vgjhstd5dggyr_s43b4mndr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Prefix-hdhuahqtrypexpacofgrkvyxqpbb/iPhone_Prefix.pch.pth
+t1339923945
+s4792216
+
+Nofxiphone-Info.plist
+c000000004FBF1FC00000000000000428
+t1337925568
+s1064
+
+CBuild AST from /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/example/src/main.cpp
+r0
+
+CBuild AST from /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/example/src/testApp.cpp
+r0
+
+CBuild AST from /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/src/ofxTesseract.cpp
+r0
+
+CBuild AST from /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/src/OCRThread.cpp
+r0
+
+CBuild AST from /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/src/OscThread.cpp
+r0
+
+CBuild AST from /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/src/main.mm
+r0
+
+CBuild AST from /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/src/testApp.mm
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies8b1a9053b190b541^7f699153b190b541^-110"Warning: The Copy Bundle Resources build phase contains this target's Info.plist file 'ofxiphone-Info.plist'.1(21%IDEActivityLogMessage2@109"Warning: The Copy Bundle Resources build phase contains this target's Info.plist file 'ofxiphone-Info.plist'.-361804115#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--0#1#0#--18"Check dependencies36"79F3D3D6-1B90-4070-8EAA-0A5F680AE16D-
+
+CCodeSign /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app
+s361804118.787494
+e361804119.710334
+r1
+xCodeSign
+x/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"CodeSign build/Debug-iphoneos/videoGrabberExample.app7cb7c956b190b541^e8d8b557b190b541^---0#0#0#-19%DVTDocumentLocation2@146"file://localhost/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/0000000000000000^1044"CodeSign build/Debug-iphoneos/videoGrabberExample.app    cd /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign --force --sign 42c26195e21b0456144019205d6545e53608ccce --resource-rules=/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/ResourceRules.plist --entitlements /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample.xcent /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app36"0D6DE2A3-30F2-450B-9F26-E912E7B6875D-
+
+CCompileC build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/OCRThread.o /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/src/OCRThread.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s361804115.607714
+e361804116.887294
+r1
+xCompileC
+xbuild/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/OCRThread.o
+x/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/src/OCRThread.cpp
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/src/OCRThread.cpp93c39b53b190b541^c425e354b190b541^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/src/OCRThread.cpp0000000000000000^4654"CompileC build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/OCRThread.o src/OCRThread.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch armv7 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wno-deprecated-declarations -Wno-invalid-offsetof -g -fvisibility-inlines-hidden -Wno-conversion -Wno-sign-conversion -miphoneos-version-min=3.1 -iquote /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample-generated-files.hmap -I/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample-own-target-headers.hmap -I/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample-all-target-headers.hmap -iquote /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample-project-headers.hmap -I/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../addons/ofxiPhone -I../../../addons/ofxiPhone/src -I../../../addons/ofxMultiTouch -I../../../addons/ofxMultiTouch/src -I../../../addons/ofxAccelerometer -I../../../addons/ofxAccelerometer/src -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtaudio/include -I../../../libs/glu/include_ios -Isrc -I/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/DerivedSources/armv7 -I/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/DerivedSources -F/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos -include /var/folders/g6/1vgjhstd5dggyr_s43b4mndr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Prefix-fnxxtjgjcyxruggxpscgrownaupv/iPhone_Prefix.pch -MMD -MT dependencies -MF /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/OCRThread.d --serialize-diagnostics /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/OCRThread.dia -c /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/src/OCRThread.cpp -o /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/OCRThread.o36"C447BFCF-1C99-47D9-BFAA-0AD86FD945E2-
+
+CCompileC build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/OscThread.o /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/src/OscThread.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/main-7146FE4631047665.o /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/example/src/main.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/main-BF24D59965846C59.o /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/src/main.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/main.o /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/src/main.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s361625519.415879
+e361625521.984222
+r1
+xCompileC
+xbuild/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/main.o
+x/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/src/main.mm
+xnormal
+xarmv7
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/src/main.mm9eb26aaff78db541^62f5fbb1f78db541^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/src/main.mm0000000000000000^4962"CompileC build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/main.o src/main.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch armv7 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-arc-abi -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wno-protocol -Wno-deprecated-declarations -Wno-invalid-offsetof -g -fvisibility-inlines-hidden -Wno-conversion -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.1 -iquote /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample-generated-files.hmap -I/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample-own-target-headers.hmap -I/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample-all-target-headers.hmap -iquote /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample-project-headers.hmap -I/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../addons/ofxiPhone -I../../../addons/ofxiPhone/src -I../../../addons/ofxMultiTouch -I../../../addons/ofxMultiTouch/src -I../../../addons/ofxAccelerometer -I../../../addons/ofxAccelerometer/src -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtaudio/include -I../../../libs/glu/include_ios -Isrc -I/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/DerivedSources/armv7 -I/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/DerivedSources -F/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos -include /var/folders/g6/1vgjhstd5dggyr_s43b4mndr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Prefix-hdhuahqtrypexpacofgrkvyxqpbb/iPhone_Prefix.pch -MMD -MT dependencies -MF /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/main.dia -c /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/src/main.mm -o /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/main.o36"630CD2DC-B56D-4CD2-AF1D-D7A3A004D1C5-
+
+CCompileC build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/ofxTesseract.o /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/src/ofxTesseract.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s361803923.416734
+e361803925.848772
+r1
+xCompileC
+xbuild/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/ofxTesseract.o
+x/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/src/ofxTesseract.cpp
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/src/ofxTesseract.cpp:46:1: warning: control may reach end of non-void function [-Wreturn-type]
+o}
+o^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"Compile /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/src/ofxTesseract.cpp1f116b93b090b541^6f46d995b090b541^-234"/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/src/ofxTesseract.cpp:46:1: warning: control may reach end of non-void function [-Wreturn-type]}^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@42"Control may reach end of non-void function-361803925#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@109"file://localhost/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/addons/ofxTesseract/src/ofxTesseract.cpp0000000000000000^45#0#45#0#1561#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@150"file://localhost/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/src/ofxTesseract.cpp0000000000000000^4730"CompileC build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/ofxTesseract.o ../../../addons/ofxTesseract/src/ofxTesseract.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch armv7 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wno-deprecated-declarations -Wno-invalid-offsetof -g -fvisibility-inlines-hidden -Wno-conversion -Wno-sign-conversion -miphoneos-version-min=3.1 -iquote /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample-generated-files.hmap -I/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample-own-target-headers.hmap -I/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample-all-target-headers.hmap -iquote /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample-project-headers.hmap -I/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../addons/ofxiPhone -I../../../addons/ofxiPhone/src -I../../../addons/ofxMultiTouch -I../../../addons/ofxMultiTouch/src -I../../../addons/ofxAccelerometer -I../../../addons/ofxAccelerometer/src -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtaudio/include -I../../../libs/glu/include_ios -Isrc -I/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/DerivedSources/armv7 -I/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/DerivedSources -F/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos -include /var/folders/g6/1vgjhstd5dggyr_s43b4mndr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Prefix-fnxxtjgjcyxruggxpscgrownaupv/iPhone_Prefix.pch -MMD -MT dependencies -MF /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/ofxTesseract.d --serialize-diagnostics /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/ofxTesseract.dia -c /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/src/ofxTesseract.cpp -o /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/ofxTesseract.o36"84B6A41A-25D0-48D6-8CD3-D9DF6C5A6AA8-
+
+CCompileC build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/testApp-B02793EDC8748C5B.o /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/src/testApp.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/testApp-E9C85D70627C8666.o /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/example/src/testApp.cpp normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/testApp.o /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/src/testApp.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s361625519.416475
+e361625521.959046
+r1
+xCompileC
+xbuild/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/testApp.o
+x/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/src/testApp.mm
+xnormal
+xarmv7
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/src/testApp.mm0ad86aaff78db541^5183f5b1f78db541^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/src/testApp.mm0000000000000000^4980"CompileC build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/testApp.o src/testApp.mm normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch armv7 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-arc-abi -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wno-protocol -Wno-deprecated-declarations -Wno-invalid-offsetof -g -fvisibility-inlines-hidden -Wno-conversion -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.1 -iquote /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample-generated-files.hmap -I/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample-own-target-headers.hmap -I/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample-all-target-headers.hmap -iquote /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample-project-headers.hmap -I/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../addons/ofxiPhone -I../../../addons/ofxiPhone/src -I../../../addons/ofxMultiTouch -I../../../addons/ofxMultiTouch/src -I../../../addons/ofxAccelerometer -I../../../addons/ofxAccelerometer/src -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtaudio/include -I../../../libs/glu/include_ios -Isrc -I/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/DerivedSources/armv7 -I/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/DerivedSources -F/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos -include /var/folders/g6/1vgjhstd5dggyr_s43b4mndr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Prefix-hdhuahqtrypexpacofgrkvyxqpbb/iPhone_Prefix.pch -MMD -MT dependencies -MF /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/testApp.d --serialize-diagnostics /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/testApp.dia -c /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/src/testApp.mm -o /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/testApp.o36"6981FD79-1E3C-4E11-8D8E-B12C8B7188FA-
+
+CCopyPNGFile /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/Default.png bin/data/Default.png
+s361616745.221807
+e361616745.368424
+r1
+xCopyPNGFile
+x/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/Default.png
+xbin/data/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"CopyPNGFile build/Debug-iphoneos/videoGrabberExample.app/Default.png bin/data/Default.png87353969d58db541^7f4d5e69d58db541^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/bin/data/Default.png0000000000000000^803"CopyPNGFile build/Debug-iphoneos/videoGrabberExample.app/Default.png bin/data/Default.png    cd /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" "" /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/bin/data/Default.png /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/Default.png36"96D75C73-39B8-4D2F-87DC-2E5E8E33ACF6-
+
+CCopyPNGFile /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/Icon.png bin/data/Icon.png
+s361616745.223853
+e361616745.365925
+r1
+xCopyPNGFile
+x/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/Icon.png
+xbin/data/Icon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"CopyPNGFile build/Debug-iphoneos/videoGrabberExample.app/Icon.png bin/data/Icon.png1a693969d58db541^d2ab5d69d58db541^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/bin/data/Icon.png0000000000000000^791"CopyPNGFile build/Debug-iphoneos/videoGrabberExample.app/Icon.png bin/data/Icon.png    cd /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" "" /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/bin/data/Icon.png /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/Icon.png36"66765BDD-5B90-431F-8C3B-2B267D2AA5B4-
+
+CCopyPNGFile /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/article.png ../../../addons/ofxTesseract/example/bin/data/article.png
+r0
+
+CCopyPlistFile /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/ofxiphone-Info.plist ofxiphone-Info.plist
+s361616745.223184
+e361616745.236603
+r1
+xCopyPlistFile
+x/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/ofxiphone-Info.plist
+xofxiphone-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection25"Copy ofxiphone-Info.plist9e3f3969d58db541^399d3c69d58db541^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/ofxiphone-Info.plist0000000000000000^584"CopyPlistFile build/Debug-iphoneos/videoGrabberExample.app/ofxiphone-Info.plist ofxiphone-Info.plist    cd /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyPlist --convert binary1 --outdir /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app -- ofxiphone-Info.plist36"6ED9D011-09AA-4128-A944-62531FBCCB19-
+
+CCopyPlistFile /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/openFrameworks-Info.plist ../../../addons/ofxTesseract/example/openFrameworks-Info.plist
+r0
+
+CCpResource ../../../addons/ofxTesseract/.gitignore build/Debug-iphoneos/videoGrabberExample.app/.gitignore
+r0
+
+CCpResource ../../../addons/ofxTesseract/example/Project.xcconfig build/Debug-iphoneos/videoGrabberExample.app/Project.xcconfig
+r0
+
+CCpResource ../../../addons/ofxTesseract/example/bin/data/.gitignore build/Debug-iphoneos/videoGrabberExample.app/.gitignore
+r0
+
+CCpResource ../../../addons/ofxTesseract/example/bin/data/tessdata/eng.traineddata build/Debug-iphoneos/videoGrabberExample.app/eng.traineddata
+r0
+
+CCpResource ../../../addons/ofxTesseract/example/build/ofxTesseractExample.build/Debug/ofxTesseractExample.build/ofxTesseractExampleDebug.hmap build/Debug-iphoneos/videoGrabberExample.app/ofxTesseractExampleDebug.hmap
+r0
+
+CCpResource ../../../addons/ofxTesseract/readme.md build/Debug-iphoneos/videoGrabberExample.app/readme.md
+s361618059.102294
+e361618059.156445
+r1
+xCpResource
+x../../../addons/ofxTesseract/readme.md
+xbuild/Debug-iphoneos/videoGrabberExample.app/readme.md
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy build/Debug-iphoneos/videoGrabberExample.app/readme.mdcf4a1a8bda8db541^3867288bda8db541^---0#0#0#-19%DVTDocumentLocation2@155"file://localhost/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/readme.md000000000080d041^877"CpResource ../../../addons/ofxTesseract/readme.md build/Debug-iphoneos/videoGrabberExample.app/readme.md    cd /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/readme.md /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app36"B2CBF6AB-D5C7-4CE4-B71F-0535CD8B775A-
+
+CCpResource ../../../libs/openFrameworksCompiled/project/ios/CoreOF.xcconfig build/Debug-iphoneos/videoGrabberExample.app/CoreOF.xcconfig
+s361616745.237867
+e361616745.244558
+r1
+xCpResource
+x../../../libs/openFrameworksCompiled/project/ios/CoreOF.xcconfig
+xbuild/Debug-iphoneos/videoGrabberExample.app/CoreOF.xcconfig
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy build/Debug-iphoneos/videoGrabberExample.app/CoreOF.xcconfig64033d69d58db541^6b9b3e69d58db541^---0#0#0#-19%DVTDocumentLocation2@161"file://localhost/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/CoreOF.xcconfig000000000080d041^935"CpResource ../../../libs/openFrameworksCompiled/project/ios/CoreOF.xcconfig build/Debug-iphoneos/videoGrabberExample.app/CoreOF.xcconfig    cd /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../libs/openFrameworksCompiled/project/ios/CoreOF.xcconfig /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app36"DA430356-F340-4AA7-9ADF-388EAA0170DB-
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist build/Debug-iphoneos/videoGrabberExample.app/ResourceRules.plist
+s361616745.196845
+e361616745.201463
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist
+xbuild/Debug-iphoneos/videoGrabberExample.app/ResourceRules.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy build/Debug-iphoneos/videoGrabberExample.app/ResourceRules.plist2c833269d58db541^a04e3969d58db541^---0#0#0#-19%DVTDocumentLocation2@165"file://localhost/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/ResourceRules.plist000000000080d041^968"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist build/Debug-iphoneos/videoGrabberExample.app/ResourceRules.plist    cd /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app36"2230374F-522E-4CB5-B5D9-1DBFADB564E2-
+
+CCpResource Project.xcconfig build/Debug-iphoneos/videoGrabberExample.app/Project.xcconfig
+s361616745.223818
+e361616745.237015
+r1
+xCpResource
+xProject.xcconfig
+xbuild/Debug-iphoneos/videoGrabberExample.app/Project.xcconfig
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy build/Debug-iphoneos/videoGrabberExample.app/Project.xcconfigb1693969d58db541^d6ab3c69d58db541^---0#0#0#-19%DVTDocumentLocation2@162"file://localhost/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/Project.xcconfig000000000080d041^840"CpResource Project.xcconfig build/Debug-iphoneos/videoGrabberExample.app/Project.xcconfig    cd /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/Project.xcconfig /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app36"311BAFF0-BDDF-4FBE-8642-D5B28D00B917-
+
+CCpResource bin/data/tessdata/eng.traineddata build/Debug-iphoneos/videoGrabberExample.app/eng.traineddata
+r0
+
+CGenerateDSYMFile /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app.dSYM /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/videoGrabberExample
+s361804117.765108
+e361804118.562402
+r1
+xGenerateDSYMFile
+x/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app.dSYM
+x/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/videoGrabberExample
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection145"Generating /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app.dSYM35f0c355b190b541^b85c9156b190b541^---0#0#0#-19%DVTDocumentLocation2@151"file://localhost/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app.dSYM/0000000000000000^764"GenerateDSYMFile build/Debug-iphoneos/videoGrabberExample.app.dSYM build/Debug-iphoneos/videoGrabberExample.app/videoGrabberExample    cd /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/dsymutil /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/videoGrabberExample -o /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app.dSYM36"129F5C40-BD56-48DB-94B9-74076987C95F-
+
+CLd /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/videoGrabberExample normal armv7
+s361804116.895015
+e361804117.758221
+r1
+xLd
+x/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/videoGrabberExample
+xnormal
+xarmv7
+old: warning: ignoring file ../../../libs/FreeImage/lib/osx/freeimage.a, missing required architecture armv7 in file
+old: warning: ignoring file ../../../libs/glew/lib/osx/glew.a, file was built for archive which is not the architecture being linked (armv7)
+old: warning: ignoring file ../../../libs/cairo/lib/osx/cairo.a, file was built for archive which is not the architecture being linked (armv7)
+old: warning: ignoring file ../../../libs/glu/lib/ios/glu.a, file was built for archive which is not the architecture being linked (armv7)
+old: warning: ignoring file /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/addons/ofxTesseract/lib/osx/libtesseract_full_i386.a, file was built for archive which is not the architecture being linked (armv7)
+old: warning: 32-bit absolute address out of range (0x1003EDD48 max is 4GB): from _inflate_table + 0x00000674 (0x000CE134) to 0x1003EDD48
+old: warning: 32-bit absolute address out of range (0x1003EDD86 max is 4GB): from _inflate_table + 0x00000670 (0x000CE134) to 0x1003EDD86
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection154"Link /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/videoGrabberExample3258e554b190b541^431dc255b190b541^-1022"ld: warning: ignoring file ../../../libs/FreeImage/lib/osx/freeimage.a, missing required architecture armv7 in fileld: warning: ignoring file ../../../libs/glew/lib/osx/glew.a, file was built for archive which is not the architecture being linked (armv7)ld: warning: ignoring file ../../../libs/cairo/lib/osx/cairo.a, file was built for archive which is not the architecture being linked (armv7)ld: warning: ignoring file ../../../libs/glu/lib/ios/glu.a, file was built for archive which is not the architecture being linked (armv7)ld: warning: ignoring file /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/addons/ofxTesseract/lib/osx/libtesseract_full_i386.a, file was built for archive which is not the architecture being linked (armv7)ld: warning: 32-bit absolute address out of range (0x1003EDD48 max is 4GB): from _inflate_table + 0x00000674 (0x000CE134) to 0x1003EDD48ld: warning: 32-bit absolute address out of range (0x1003EDD86 max is 4GB): from _inflate_table + 0x00000670 (0x000CE134) to 0x1003EDD867(21%IDEActivityLogMessage2@102"Ignoring file ../../../libs/FreeImage/lib/osx/freeimage.a, missing required architecture armv7 in file-361804116#0#116#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--2@126"Ignoring file ../../../libs/glew/lib/osx/glew.a, file was built for archive which is not the architecture being linked (armv7)-361804116#116#140#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--2@128"Ignoring file ../../../libs/cairo/lib/osx/cairo.a, file was built for archive which is not the architecture being linked (armv7)-361804116#256#142#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--2@124"Ignoring file ../../../libs/glu/lib/ios/glu.a, file was built for archive which is not the architecture being linked (armv7)-361804116#398#138#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--2@198"Ignoring file /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/addons/ofxTesseract/lib/osx/libtesseract_full_i386.a, file was built for archive which is not the architecture being linked (armv7)-361804117#536#212#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--2@123"32-bit absolute address out of range (0x1003EDD48 max is 4GB): from _inflate_table + 0x00000674 (0x000CE134) to 0x1003EDD48-361804117#748#137#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--2@123"32-bit absolute address out of range (0x1003EDD86 max is 4GB): from _inflate_table + 0x00000670 (0x000CE134) to 0x1003EDD86-361804117#885#137#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--0#0#0#--2488"Ld build/Debug-iphoneos/videoGrabberExample.app/videoGrabberExample normal armv7    cd /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -L/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos -L/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/lib/ios -L/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/lib/osx -F/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos -filelist /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/videoGrabberExample.LinkFileList -dead_strip -ObjC ../../../libs/freetype/lib/ios/freetype.a ../../../libs/FreeImage/lib/osx/freeimage.a ../../../libs/FreeImage/lib/ios/freeimage.a ../../../libs/glew/lib/osx/glew.a ../../../libs/cairo/lib/osx/cairo.a ../../../libs/poco/lib/ios/PocoFoundation.a ../../../libs/poco/lib/ios/PocoData.a ../../../libs/poco/lib/ios/PocoNet.a ../../../libs/poco/lib/ios/PocoXML.a ../../../libs/poco/lib/ios/PocoZip.a ../../../libs/poco/lib/ios/PocoUtil.a ../../../libs/tess2/lib/ios/tess2.a ../../../libs/glu/lib/ios/glu.a ../../../libs/glu/lib/ios/glu-ios.a -miphoneos-version-min=3.1 /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/libs/openFrameworksCompiled/lib/ios/libofxiPhone_iphoneos_Debug.a -framework Foundation -framework UIKit -framework CoreGraphics -framework OpenGLES -framework QuartzCore -framework AudioToolbox -framework OpenAL -framework CoreLocation -framework CoreGraphics -framework AVFoundation -framework CoreMedia -framework CoreVideo -framework MapKit -llept -ltesseract_all -ltesseract_full_i386 -o /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/videoGrabberExample36"A5D4D619-EEB2-4C69-94D9-73096D749002-
+
+CPhaseScriptExecution "Run Script" /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Script-9255DD331112741900D6945E.sh
+s361804118.570876
+e361804118.733204
+r1
+xPhaseScriptExecution
+xRun Script
+x/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Script-9255DD331112741900D6945E.sh
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Run custom shell script 'Run Script'c4409356b190b541^9ab2bb56b190b541^---0#0#0#--26701"PhaseScriptExecution "Run Script" build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Script-9255DD331112741900D6945E.sh    cd /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample    setenv ACTION build    setenv AD_HOC_CODE_SIGNING_ALLOWED NO    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER tkato    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS armv7    setenv ARCHS_STANDARD_32_64_BIT armv7    setenv ARCHS_STANDARD_32_BIT armv7    setenv ARCHS_UNIVERSAL_IPHONE_OS armv7    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build    setenv BUILD_ROOT /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos    setenv CACHE_ROOT /var/folders/g6/1vgjhstd5dggyr_s43b4mndr0000gn/C/com.apple.Xcode.501    setenv CCHROOT /var/folders/g6/1vgjhstd5dggyr_s43b4mndr0000gn/C/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app    setenv CODE_SIGNING_ALLOWED YES    setenv CODE_SIGNING_REQUIRED YES    setenv CODE_SIGN_CONTEXT_CLASS XCiPhoneOSCodeSignContext    setenv CODE_SIGN_IDENTITY "iPhone Developer"    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/g6/1vgjhstd5dggyr_s43b4mndr0000gn/C/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES NO    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos    setenv CONFIGURATION_TEMP_DIR /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos    setenv CONTENTS_FOLDER_PATH videoGrabberExample.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP YES    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH armv7    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING YES    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Applications/Xcode.app/Contents/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH videoGrabberExample.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/videoGrabberExample.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME videoGrabberExample.app.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos    setenv EFFECTIVE_PLATFORM_NAME -iphoneos    setenv EMBEDDED_PROFILE_NAME embedded.mobileprovision    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENTITLEMENTS_ALLOWED YES    setenv ENTITLEMENTS_REQUIRED YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH videoGrabberExample.app/Executables    setenv EXECUTABLE_FOLDER_PATH videoGrabberExample.app    setenv EXECUTABLE_NAME videoGrabberExample    setenv EXECUTABLE_PATH videoGrabberExample.app/videoGrabberExample    setenv FILE_LIST /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH videoGrabberExample.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME videoGrabberExample.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER iPhone_Prefix.pch    setenv GCC_SYMBOLS_PRIVATE_EXTERN NO    setenv GCC_THUMB_SUPPORT NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_WARN_ABOUT_DEPRECATED_FUNCTIONS NO    setenv GCC_WARN_ABOUT_INVALID_OFFSETOF_MACRO NO    setenv GCC_WARN_ABOUT_POINTER_SIGNEDNESS NO    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_ALLOW_INCOMPLETE_PROTOCOL NO    setenv GCC_WARN_PROTOTYPE_CONVERSION NO    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_CAIRO "\"../../../libs/cairo/include/cairo\""    setenv HEADER_FMODEX "\"../../../libs/fmodex/include\""    setenv HEADER_FREEIMAGE "\"../../../libs/FreeImage/include\""    setenv HEADER_FREETYPE "\"../../../libs/freetype/include\""    setenv HEADER_FREETYPE2 "\"../../../libs/freetype/include/freetype2\""    setenv HEADER_GLEW "\"../../../libs/glew/include\""    setenv HEADER_GLU "\"../../../libs/glu/include_ios\""    setenv HEADER_OF "\"../../../libs/openFrameworks/**\""    setenv HEADER_OFXACCELEROMETER "\"../../../addons/ofxAccelerometer/**\""    setenv HEADER_OFXIPHONE "\"../../../addons/ofxiPhone/**\""    setenv HEADER_OFXMULTITOUCH "\"../../../addons/ofxMultiTouch/**\""    setenv HEADER_POCO "\"../../../libs/poco/include\""    setenv HEADER_RTAUDIO "\"../../../libs/rtaudio/include\""    setenv HEADER_SEARCH_PATHS "\"/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/include\" \"../../../libs/openFrameworks/**\" \"../../../addons/ofxiPhone/**\" \"../../../addons/ofxMultiTouch/**\" \"../../../addons/ofxAccelerometer/**\" \"../../../libs/poco/include\" \"../../../libs/freetype/include\" \"../../../libs/freetype/include/freetype2\" \"../../../libs/fmodex/include\" \"../../../libs/glew/include\" \"../../../libs/FreeImage/include\" \"../../../libs/tess2/include\" \"../../../libs/cairo/include/cairo\" \"../../../libs/rtaudio/include\" \"../../../libs/glu/include_ios\" src"    setenv HEADER_TESS2 "\"../../../libs/tess2/include\""    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE ofxiphone-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH videoGrabberExample.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH videoGrabberExample.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/videoGrabberExample.dst/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER tkato    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT /tmp/videoGrabberExample.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH videoGrabberExample.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample-LinkMap-normal-armv7.txt    setenv LD_NO_PIE NO    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos\"  \"/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/lib/ios\" \"/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/../../../addons/ofxTesseract/lib/osx\""    setenv LIB_CAIRO "\"../../../libs/cairo/lib/osx/cairo.a\""    setenv LIB_FREEIMAGE "\"../../../libs/FreeImage/lib/osx/freeimage.a\""    setenv LIB_FREEIMAGE_IPHONE "\"../../../libs/FreeImage/lib/ios/freeimage.a\""    setenv LIB_FREETYPE "\"../../../libs/freetype/lib/ios/freetype.a\""    setenv LIB_GLEW "\"../../../libs/glew/lib/osx/glew.a\""    setenv LIB_GLU "\"../../../libs/glu/lib/ios/glu.a\""    setenv LIB_GLU_IPHONE "\"../../../libs/glu/lib/ios/glu-ios.a\""    setenv LIB_POCODATA_IPHONE "\"../../../libs/poco/lib/ios/PocoData.a\""    setenv LIB_POCOFOUNDATION_IPHONE "\"../../../libs/poco/lib/ios/PocoFoundation.a\""    setenv LIB_POCONET_IPHONE "\"../../../libs/poco/lib/ios/PocoNet.a\""    setenv LIB_POCOUTIL_IPHONE "\"../../../libs/poco/lib/ios/PocoUtil.a\""    setenv LIB_POCOXML_IPHONE "\"../../../libs/poco/lib/ios/PocoXML.a\""    setenv LIB_POCOZIP_IPHONE "\"../../../libs/poco/lib/ios/PocoZip.a\""    setenv LIB_RTAUDIO "\"../../../libs/rtAudio/lib/osx/rtAudio.a\""    setenv LIB_TESS "\"../../../libs/tess2/lib/osx/tess2.a\""    setenv LIB_TESS_IPHONE "\"../../../libs/tess2/lib/ios/tess2.a\""    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_armv7 /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal/armv7/videoGrabberExample.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH videoGrabberExample.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 11E53    setenv MAC_OS_X_VERSION_ACTUAL 1074    setenv MAC_OS_X_VERSION_MAJOR 1070    setenv MAC_OS_X_VERSION_MINOR 0704    setenv MISC_FLAGS "\"-ObjC\""    setenv NATIVE_ARCH armv7    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Objects-normal    setenv OBJROOT /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build    setenv OF_CORE_HEADERS "\"../../../libs/openFrameworks/**\" \"../../../addons/ofxiPhone/**\" \"../../../addons/ofxMultiTouch/**\" \"../../../addons/ofxAccelerometer/**\" \"../../../libs/poco/include\" \"../../../libs/freetype/include\" \"../../../libs/freetype/include/freetype2\" \"../../../libs/fmodex/include\" \"../../../libs/glew/include\" \"../../../libs/FreeImage/include\" \"../../../libs/tess2/include\" \"../../../libs/cairo/include/cairo\" \"../../../libs/rtaudio/include\" \"../../../libs/glu/include_ios\""    setenv OF_CORE_LIBS "\"-ObjC\" \"../../../libs/freetype/lib/ios/freetype.a\" \"../../../libs/FreeImage/lib/osx/freeimage.a\" \"../../../libs/FreeImage/lib/ios/freeimage.a\" \"../../../libs/glew/lib/osx/glew.a\" \"../../../libs/cairo/lib/osx/cairo.a\" \"../../../libs/poco/lib/ios/PocoFoundation.a\" \"../../../libs/poco/lib/ios/PocoData.a\" \"../../../libs/poco/lib/ios/PocoNet.a\" \"../../../libs/poco/lib/ios/PocoXML.a\" \"../../../libs/poco/lib/ios/PocoZip.a\" \"../../../libs/poco/lib/ios/PocoUtil.a\" \"../../../libs/tess2/lib/ios/tess2.a\"     \"../../../libs/glu/lib/ios/glu.a\" \"../../../libs/glu/lib/ios/glu-ios.a\""    setenv OF_PATH ../../..    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "\"-ObjC\" \"../../../libs/freetype/lib/ios/freetype.a\" \"../../../libs/FreeImage/lib/osx/freeimage.a\" \"../../../libs/FreeImage/lib/ios/freeimage.a\" \"../../../libs/glew/lib/osx/glew.a\" \"../../../libs/cairo/lib/osx/cairo.a\" \"../../../libs/poco/lib/ios/PocoFoundation.a\" \"../../../libs/poco/lib/ios/PocoData.a\" \"../../../libs/poco/lib/ios/PocoNet.a\" \"../../../libs/poco/lib/ios/PocoXML.a\" \"../../../libs/poco/lib/ios/PocoZip.a\" \"../../../libs/poco/lib/ios/PocoUtil.a\" \"../../../libs/tess2/lib/ios/tess2.a\"     \"../../../libs/glu/lib/ios/glu.a\" \"../../../libs/glu/lib/ios/glu-ios.a\""    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH videoGrabberExample.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS "c++ objective-c++"    setenv PKGINFO_FILE_PATH /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/PkgInfo    setenv PKGINFO_PATH videoGrabberExample.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform    setenv PLATFORM_NAME iphoneos    setenv PLATFORM_PREFERRED_ARCH armv7    setenv PLATFORM_PRODUCT_BUILD_VERSION 9B176    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH videoGrabberExample.app/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH videoGrabberExample.app/PrivateHeaders    setenv PRODUCT_NAME videoGrabberExample    setenv PRODUCT_SETTINGS_PATH /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/ofxiphone-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT videoGrabberExample    setenv PROJECT_DERIVED_FILE_DIR /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/DerivedSources    setenv PROJECT_DIR /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample    setenv PROJECT_FILE_PATH /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/videoGrabberExample.xcodeproj    setenv PROJECT_NAME videoGrabberExample    setenv PROJECT_TEMP_DIR /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build    setenv PROVISIONING_PROFILE_REQUIRED YES    setenv PUBLIC_HEADERS_FOLDER_PATH videoGrabberExample.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv RESOURCE_RULES_REQUIRED YES    setenv REZ_COLLECTOR_DIR /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH videoGrabberExample.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk    setenv SDK_NAME iphoneos5.1    setenv SDK_PRODUCT_BUILD_VERSION 9B176    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH videoGrabberExample.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/g6/1vgjhstd5dggyr_s43b4mndr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH videoGrabberExample.app/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample    setenv SRCROOT /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES 1,2    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME videoGrabberExample    setenv TARGET_BUILD_DIR /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos    setenv TARGET_NAME videoGrabberExample    setenv TARGET_TEMP_DIR /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build    setenv TEMP_DIR /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build    setenv TEMP_FILES_DIR /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build    setenv TEMP_FILE_DIR /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build    setenv TEMP_ROOT /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build    setenv TEST_AFTER_BUILD NO    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH videoGrabberExample.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER tkato    setenv USER_APPS_DIR /Users/tkato/Applications    setenv USER_LIBRARY_DIR /Users/tkato/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "armv6 armv7"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH videoGrabberExample.app/version.plist    setenv VERSION_INFO_BUILDER tkato    setenv VERSION_INFO_FILE videoGrabberExample_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:videoGrabberExample  PROJECT:videoGrabberExample-\""    setenv WARNING_LDFLAGS -no_arch_warnings    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME videoGrabberExample.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 4E2002    setenv XCODE_VERSION_ACTUAL 0432    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0430    setenv YACC yacc    /bin/sh -c /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/Script-9255DD331112741900D6945E.sh36"0E18BCBB-0562-45BE-83BE-4B754638E8C5-
+
+CProcessInfoPlistFile /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/Info.plist ofxiphone-Info.plist
+s361616745.197829
+e361616745.213656
+r1
+xProcessInfoPlistFile
+x/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/Info.plist
+xofxiphone-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Process ofxiphone-Info.plist38be3269d58db541^ef573969d58db541^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/ofxiphone-Info.plist0000000000000000^946"ProcessInfoPlistFile build/Debug-iphoneos/videoGrabberExample.app/Info.plist ofxiphone-Info.plist    cd /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ofxiphone-Info.plist -genpkginfo /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/ResourceRules.plist -o /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/Info.plist36"9232CE93-25BA-4248-9FDE-EAD73A0AEDA0-
+
+CProcessPCH++ /Users/tkato/Library/Developer/Xcode/DerivedData/videoGrabberExample-decadwvvyiekzaduwfbxkuxwbftx/Index/PrecompiledHeaders/iPhone_Prefix-apqzbmqslimkhqfguhbnwhxqequp_ast/iPhone_Prefix.pch.pth iPhone_Prefix.pch normal armv7 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /Users/tkato/Library/Developer/Xcode/DerivedData/videoGrabberExample-decadwvvyiekzaduwfbxkuxwbftx/Index/PrecompiledHeaders/iPhone_Prefix-fugbkcviefiyvcfgyugqqjgzeuue_ast/iPhone_Prefix.pch.pth iPhone_Prefix.pch normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/g6/1vgjhstd5dggyr_s43b4mndr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Prefix-fnxxtjgjcyxruggxpscgrownaupv/iPhone_Prefix.pch.pth iPhone_Prefix.pch normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s361618059.193240
+e361618059.395402
+r1
+xProcessPCH++
+x/var/folders/g6/1vgjhstd5dggyr_s43b4mndr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Prefix-fnxxtjgjcyxruggxpscgrownaupv/iPhone_Prefix.pch.pth
+xiPhone_Prefix.pch
+xnormal
+xarmv7
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile iPhone_Prefix.pchfab5318bda8db541^f580658bda8db541^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/iPhone_Prefix.pch0000000000000000^4454"ProcessPCH++ /var/folders/g6/1vgjhstd5dggyr_s43b4mndr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Prefix-fnxxtjgjcyxruggxpscgrownaupv/iPhone_Prefix.pch.pth iPhone_Prefix.pch normal armv7 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch armv7 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wno-deprecated-declarations -Wno-invalid-offsetof -g -fvisibility-inlines-hidden -Wno-conversion -Wno-sign-conversion -miphoneos-version-min=3.1 -iquote /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample-generated-files.hmap -I/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample-own-target-headers.hmap -I/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample-all-target-headers.hmap -iquote /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample-project-headers.hmap -I/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../addons/ofxiPhone -I../../../addons/ofxiPhone/src -I../../../addons/ofxMultiTouch -I../../../addons/ofxMultiTouch/src -I../../../addons/ofxAccelerometer -I../../../addons/ofxAccelerometer/src -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtaudio/include -I../../../libs/glu/include_ios -Isrc -I/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/DerivedSources/armv7 -I/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/DerivedSources -F/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos --serialize-diagnostics /var/folders/g6/1vgjhstd5dggyr_s43b4mndr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Prefix-fnxxtjgjcyxruggxpscgrownaupv/iPhone_Prefix.pch.dia -c /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/iPhone_Prefix.pch -o /var/folders/g6/1vgjhstd5dggyr_s43b4mndr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Prefix-fnxxtjgjcyxruggxpscgrownaupv/iPhone_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/g6/1vgjhstd5dggyr_s43b4mndr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Prefix-fnxxtjgjcyxruggxpscgrownaupv/iPhone_Prefix.pch.d36"21DFE3B7-BCC2-45F6-A3CB-672FC48E55F2-
+
+CProcessPCH++ /var/folders/g6/1vgjhstd5dggyr_s43b4mndr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Prefix-hdhuahqtrypexpacofgrkvyxqpbb/iPhone_Prefix.pch.pth iPhone_Prefix.pch normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s361616745.377814
+e361616745.901170
+r1
+xProcessPCH++
+x/var/folders/g6/1vgjhstd5dggyr_s43b4mndr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Prefix-hdhuahqtrypexpacofgrkvyxqpbb/iPhone_Prefix.pch.pth
+xiPhone_Prefix.pch
+xnormal
+xarmv7
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile iPhone_Prefix.pche3e26069d58db541^d9b4e669d58db541^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/iPhone_Prefix.pch0000000000000000^4794"ProcessPCH++ /var/folders/g6/1vgjhstd5dggyr_s43b4mndr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Prefix-hdhuahqtrypexpacofgrkvyxqpbb/iPhone_Prefix.pch.pth iPhone_Prefix.pch normal armv7 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++-header -arch armv7 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-arc-abi -Wc++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wno-protocol -Wno-deprecated-declarations -Wno-invalid-offsetof -g -fvisibility-inlines-hidden -Wno-conversion -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=3.1 -iquote /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample-generated-files.hmap -I/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample-own-target-headers.hmap -I/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample-all-target-headers.hmap -iquote /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample-project-headers.hmap -I/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../addons/ofxiPhone -I../../../addons/ofxiPhone/src -I../../../addons/ofxMultiTouch -I../../../addons/ofxMultiTouch/src -I../../../addons/ofxAccelerometer -I../../../addons/ofxAccelerometer/src -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtaudio/include -I../../../libs/glu/include_ios -Isrc -I/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/DerivedSources/armv7 -I/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/DerivedSources -F/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos --serialize-diagnostics /var/folders/g6/1vgjhstd5dggyr_s43b4mndr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Prefix-hdhuahqtrypexpacofgrkvyxqpbb/iPhone_Prefix.pch.dia -c /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/iPhone_Prefix.pch -o /var/folders/g6/1vgjhstd5dggyr_s43b4mndr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Prefix-hdhuahqtrypexpacofgrkvyxqpbb/iPhone_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/g6/1vgjhstd5dggyr_s43b4mndr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Prefix-hdhuahqtrypexpacofgrkvyxqpbb/iPhone_Prefix.pch.d36"1C4938F4-9816-474A-B3DD-E6DD31E9CCA7-
+
+CProcessProductPackaging "/Users/tkato/Library/MobileDevice/Provisioning Profiles/50B1CC72-DCE6-445E-8DA1-AAF683498B30.mobileprovision" /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/embedded.mobileprovision
+s361616749.741192
+e361616749.745662
+r1
+xProcessProductPackaging
+x/Users/tkato/Library/MobileDevice/Provisioning Profiles/50B1CC72-DCE6-445E-8DA1-AAF683498B30.mobileprovision
+x/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/embedded.mobileprovision
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection204"ProcessProductPackaging "/Users/tkato/Library/MobileDevice/Provisioning Profiles/50B1CC72-DCE6-445E-8DA1-AAF683498B30.mobileprovision" build/Debug-iphoneos/videoGrabberExample.app/embedded.mobileprovision1bd5bd6dd58db541^e7e3be6dd58db541^---0#0#0#-19%DVTDocumentLocation2@170"file://localhost/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/embedded.mobileprovision0000000000000000^790"ProcessProductPackaging "/Users/tkato/Library/MobileDevice/Provisioning Profiles/50B1CC72-DCE6-445E-8DA1-AAF683498B30.mobileprovision" build/Debug-iphoneos/videoGrabberExample.app/embedded.mobileprovision    cd /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility "/Users/tkato/Library/MobileDevice/Provisioning Profiles/50B1CC72-DCE6-445E-8DA1-AAF683498B30.mobileprovision" -o /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app/embedded.mobileprovision36"81C24033-2A0A-4E97-8597-5E93C067E9FF-
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample.xcent
+s361616749.828793
+e361616749.832665
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist
+x/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample.xcent
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection243"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample.xcentaf40d46dd58db541^1329d56dd58db541^---0#0#0#-19%DVTDocumentLocation2@199"file://localhost/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample.xcent000000000080d041^894"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample.xcent    cd /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/videoGrabberExample.build/Debug-iphoneos/videoGrabberExample.build/videoGrabberExample.xcent36"44444E5E-BD06-4F16-8A0C-2995CE127AB3-
+
+CTouch /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app
+s361804118.759460
+e361804118.768886
+r1
+xTouch
+x/Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Touch /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app4e7bc256b190b541^95d5c456b190b541^---0#0#0#--483"Touch build/Debug-iphoneos/videoGrabberExample.app    cd /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/tkato/workspace/oF/iphone/of_0071_iOS_release/apps/myApps/videoGrabberExample/build/Debug-iphoneos/videoGrabberExample.app36"C58320EF-5A36-4623-99B4-637D2B384654-
+
